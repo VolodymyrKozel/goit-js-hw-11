@@ -31,6 +31,8 @@ const iziToastOptions = {
     'Sorry, there are no images matching your search query. Please try again!',
   backgroundColor: '#EF4040',
   iconUrl: './img/octagon.svg',
+  position: 'topRight',
+  maxWidth: '25%',
 };
 const lightbox = new SimpleLightbox('.gallery-list a', simplelightboxOptions);
 
