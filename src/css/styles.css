@@ -177,8 +177,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100vw;
-  height: calc(100vh - 84px);
+  margin-bottom: 50px;
+/*   width: 100vw;
+  height: calc(100vh - 84px); */
   display: none;
 }
 .loader {
